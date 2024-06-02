@@ -5,18 +5,7 @@
 return {
     {
         weapons = {`weapon_combatpistol`},
-        variation = 7,
-        male = {182, 186},
+        variation = 8,
+        male = {122, 130},
     },
-    {
-        weapons = {`weapon_combatpistol`},
-        variation = 7,
-        male = {179, 183},
-        female = {148, 149}
-    },
-    {
-        weapons = {`weapon_combatpistol`},
-        variation = 7,
-        male = {187, 188}
-    }
 }
