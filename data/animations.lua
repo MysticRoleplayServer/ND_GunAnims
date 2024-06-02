@@ -37,8 +37,8 @@ info.clothing = {
         {
             anim = "police",
             weapons = {`WEAPON_COMBATPISTOL`},
-            variation = 7,
-            male = {186, 183, 188},
+            variation = 8,
+            male = {122, 130},
             female = {149}
         }
     },
@@ -46,8 +46,8 @@ info.clothing = {
         {
             anim = "police",
             weapons = {`WEAPON_COMBATPISTOL`},
-            variation = 7,
-            male = {182, 179, 187},
+            variation = 8,
+            male = {122, 130},
             female = {148}
         }
     }
